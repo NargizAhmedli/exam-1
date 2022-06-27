@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-nav a{
+    list-style: none;
+    background-color: rgb(65, 55, 164)
+}
+
+.navbar-nav a{
+    text-decoration: none;
+    color:white;
+    display: flex;
+}
+
+#SaaS{
+    position: relative;
+}
+
+body{
+    background-image: url("https://preview.uideck.com/items/saaspal/assets/img/hero/hero-bg.svg");
+}
+
+.content h1, p{
+    color: white
+}
